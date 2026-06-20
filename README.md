@@ -3,7 +3,7 @@ A dedicated Full-Stack Engineer with experience across the JavaScript/TypeScript
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farisakbaarr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farisakbar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farisalvaro28@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farisaakbaarr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farisakbar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farisalvaro28@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
