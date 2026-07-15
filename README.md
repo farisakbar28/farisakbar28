@@ -52,18 +52,12 @@ Want to discuss API design or state management? Let's connect!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farisakbar28&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisakbar28&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="180"/>
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=farisakbar28&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisakbar28&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/farisakbar28)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisakbar28&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/farisakbar28)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=farisakbar28&theme=radical&hide_border=true)](https://github.com/farisakbar28)
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=farisakbar28&icon=4&color=0" alt="Profile Views" />
-  </a>
-</p>
+[![Profile Views](https://visitcount.itsvg.in/api?id=farisakbar28&icon=4&color=0)](https://visitcount.itsvg.in)
