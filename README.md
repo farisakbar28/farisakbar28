@@ -59,4 +59,4 @@ Want to discuss API design, microservices architecture, or application state man
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=farisakbar28&icon=4&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=farisakbar28&label=Profile%20Views&color=0e75b6&style=for-the-badge)
