@@ -52,23 +52,11 @@ Want to discuss API design, microservices architecture, or application state man
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/farisakbar28">
-    <img src="https://github-readme-stats.vercel.app/api?username=farisakbar28&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Faris's GitHub Stats" />
-  </a>
-  <a href="https://github.com/farisakbar28">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisakbar28&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
-  </a>
-</p>
+![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisakbar28&theme=radical&show_icons=true&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisakbar28&theme=radical&hide_border=true&layout=compact)
 
-<p align="center">
-  <a href="https://github.com/farisakbar28">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=farisakbar28&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=farisakbar28&theme=radical&hide_border=true)
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=farisakbar28&icon=4&color=0" alt="Profile Views" />
-</p>
+![Profile Views](https://visitcount.itsvg.in/api?id=farisakbar28&icon=4&color=0)
