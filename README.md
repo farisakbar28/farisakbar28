@@ -35,6 +35,7 @@ Want to discuss API design, microservices architecture, or application state man
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔹 Backend, Frameworks & Databases
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/gin-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -59,7 +60,6 @@ Want to discuss API design, microservices architecture, or application state man
 
 ## 📊 GitHub Analytics
 
-![Faris's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farisakbar28&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farisakbar28&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=farisakbar28&theme=radical&hide_border=true)
@@ -67,3 +67,9 @@ Want to discuss API design, microservices architecture, or application state man
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farisakbar28&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
+
+## 📈 Contribution Graph
+
+![Faris's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=farisakbar28&theme=radical&hide_border=true&area=true&custom_title=Faris%27s%20Contribution%20Graph)
