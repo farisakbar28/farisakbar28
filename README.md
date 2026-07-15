@@ -59,8 +59,6 @@ Want to discuss API design, microservices architecture, or application state man
 
 ## 📊 GitHub Analytics
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farisakbar28&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=farisakbar28&theme=radical&hide_border=true)
 
 ---
