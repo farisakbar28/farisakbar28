@@ -52,11 +52,11 @@ Want to discuss API design, microservices architecture, or application state man
 
 ## 📊 GitHub Analytics
 
-![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisakbar28&theme=radical&show_icons=true&hide_border=true&cache_seconds=86400&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisakbar28&theme=radical&hide_border=true&layout=compact&cache_seconds=86400&v=1)
+![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisakbar28&theme=radical&show_icons=true&hide_border=true&role=owner&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisakbar28&theme=radical&hide_border=true&layout=compact&langs_count=6&v=2)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=farisakbar28&theme=radical&hide_border=true&v=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=farisakbar28&theme=radical&hide_border=true)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=farisakbar28&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://visitcount.itsvg.in/api?id=farisakbar28&icon=4&color=0)
