@@ -57,12 +57,6 @@ Want to discuss API design, microservices architecture, or application state man
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=farisakbar28&theme=radical&hide_border=true)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=farisakbar28&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
