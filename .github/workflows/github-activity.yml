@@ -1,0 +1,32 @@
+name: GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      - name: Generate GitHub activity cards
+        uses: tiennm99/ghstats@v1
+        with:
+          user: farisakbar28
+          themes: github_dark
+          tz: Asia/Makassar
+          start_of_week: monday
+          include_forks: "true"
+          include_private: "false"
+          include_org_repos: "false"
+          commit_changes: "true"
+          commit_branch: master
+          commit_message: "chore: update GitHub activity"
