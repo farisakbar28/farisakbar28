@@ -80,17 +80,8 @@ I mainly work with **React, React Native, TypeScript, Go, and PostgreSQL**, with
 
 ## GitHub Activity
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=farisakbar28&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=farisakbar28&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-  />
-  <img
-    alt="Muhammad Faris Akbar's GitHub contribution activity"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farisakbar28&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-  />
-</picture>
+<div align="center">
+
+[![Muhammad Faris Akbar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farisakbar28&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/farisakbar28)
+
+</div>
